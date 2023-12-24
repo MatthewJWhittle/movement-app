@@ -1,0 +1,14 @@
+name: movement
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - geopandas
+  - pandas
+  - numpy
+  - osmnx
+  - pip
+   - pyhere
